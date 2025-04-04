@@ -1,6 +1,6 @@
 # jpa01-tiffanyxgu
 
-Deployed at: https://jpa01-tiffanyxgu.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa01-tiffanyxgu.dokku-08.cs.ucsb.edu
 
 
 # About this repo
